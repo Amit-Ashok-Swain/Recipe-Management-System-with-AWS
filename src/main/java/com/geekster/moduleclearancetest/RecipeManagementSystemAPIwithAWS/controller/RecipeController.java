@@ -28,7 +28,7 @@ public class RecipeController {
     }
 
     @GetMapping
-    public Iterable<Recipe>getAllRooms()
+    public Iterable<Recipe>getAllRecipes()
     {
         return recipeService.getRecipes();
     }
