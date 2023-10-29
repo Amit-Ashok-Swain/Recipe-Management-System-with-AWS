@@ -12,11 +12,10 @@
 	<artifactId>Recipe-Management-System-API-with-AWS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Recipe Management System API with AWS</name>
-	<description>CRUD operations on recipe, including name, ingredients, and instuctions</description>
+	<description>CRUD operations on recipes, including name, ingredients, and instuctions</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
